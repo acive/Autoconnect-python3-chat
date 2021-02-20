@@ -1,6 +1,7 @@
 # Autoconnect-python3-chat
 
 -------------------- EN ------------------------
+
 DESCRIPTION :
 Another python3 chat application... yes !!! But... this one is a bit diferent :
 - Automaticly search for client and/or server on the local network and connect it
@@ -24,6 +25,7 @@ Send me a email for any question...
 
 
 -------------------- FR ------------------------
+
 DESCRIPTION :
 Une autre application de chat python3... oui !!! Mais... celle-ci est un peu différente:
 - Recherche automatiquement le client et/ou le serveur sur le réseau local et le connecte

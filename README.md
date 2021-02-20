@@ -10,7 +10,7 @@ Another python3 chat application... yes !!! But... this one is a bit diferent :
 - Once the first connection done, it closes all unused other applications
 
 USAGE :
-- Copy the AutoPythonChat folder on each computer (connected to the same local network)
+- Copy the Autoconnect-python3-chat-main folder on each computer (connected to the same local network)
 - Just run the chat.py on each computer and the connection is done
 
 DEPENDENCIES :
@@ -34,7 +34,7 @@ Une autre application de chat python3... oui !!! Mais... celle-ci est un peu dif
 - Une fois une première connexion effectuée, il ferme toutes les autres applications inutilisées
 
 UTILISATION:
-- Copiez le dossier AutoPythonChat sur chaque ordinateur (connecté au même réseau local)
+- Copiez le dossier Autoconnect-python3-chat-main sur chaque ordinateur (connecté au même réseau local)
 - Exécutez simplement le chat.py sur chaque ordinateur et la connexion est établie
 
 DÉPENDANCES:
